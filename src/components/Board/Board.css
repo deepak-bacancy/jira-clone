@@ -1,0 +1,43 @@
+.board-design {
+  background-color: #d9d0d000;
+  width: auto;
+}
+
+.card {
+  background: #c5cbd1;
+    padding: 14px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    width: 300px
+}
+
+.scrolling-wrapper {
+  overflow-x: scroll;
+  overflow-y: scroll;
+  white-space: nowrap;
+  width: 1500px;
+  height: 700px
+}
+  .card {
+    display: inline-block;
+    height: auto;
+  }
+
+.inner-card{
+  height: 100px;
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 10px;
+  margin-bottom: 10px;
+  top: 0px
+}
+
+
+/* .sc {
+  width: 1500px;
+  background-color: aquamarine;
+}
+
+.dynamic{
+  overflow-x: auto;
+} */
